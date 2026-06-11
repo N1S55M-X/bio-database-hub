@@ -315,6 +315,146 @@ A curated collection of datasets, databases, APIs, challenges, and validation pl
 
 
 ---
+# ⏳ Aging & Longevity Research
+
+Aging research databases covering longevity genes, cellular senescence, age-related omics, lifespan interventions, dietary restriction, and longevity-associated compounds.
+
+---
+
+## 🧬 Human Ageing Genomic Resources (HAGR)
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| GenAge | Aging and longevity genes | https://genomics.senescence.info/genes/ |
+| CellAge | Cellular senescence genes | https://genomics.senescence.info/cells/ |
+| DrugAge | Longevity compounds and interventions | https://genomics.senescence.info/drugs/ |
+| GenDR | Dietary restriction genes | https://genomics.senescence.info/diet/ |
+| LongevityMap | Human longevity variants | https://genomics.senescence.info/longevity/ |
+| AnAge | Animal lifespan and longevity database | https://genomics.senescence.info/species/ |
+
+---
+
+## 🧬 Aging Multi-Omics
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| Aging Atlas | Transcriptomics, proteomics, epigenomics, pharmacogenomics, single-cell aging data | https://ngdc.cncb.ac.cn/aging/ |
+| GEO Aging Studies | Aging expression datasets | https://www.ncbi.nlm.nih.gov/geo/ |
+| CellxGene Aging Datasets | Single-cell aging atlases | https://cellxgene.cziscience.com/ |
+| Expression Atlas | Age-dependent expression profiles | https://www.ebi.ac.uk/gxa/ |
+
+---
+
+## 🧪 Cellular Senescence
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| CellAge | Senescence-associated genes | https://genomics.senescence.info/cells/ |
+| Aging Atlas | Senescence omics datasets | https://ngdc.cncb.ac.cn/aging/ |
+| MSigDB Aging Gene Sets | Aging-related signatures | https://www.gsea-msigdb.org |
+
+---
+
+## 💊 Geroscience & Longevity Drugs
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| DrugAge | Lifespan-extending compounds | https://genomics.senescence.info/drugs/ |
+| ChEMBL | Drug bioactivity data | https://www.ebi.ac.uk/chembl/ |
+| DrugBank | Drug information and targets | https://go.drugbank.com/ |
+| BindingDB | Protein-ligand binding data | https://www.bindingdb.org/ |
+
+---
+
+## 🐭 Model Organisms & Lifespan
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| AnAge | Lifespan records across species | https://genomics.senescence.info/species/ |
+| Mouse Genome Informatics | Mouse aging genetics | https://www.informatics.jax.org/ |
+| WormBase | C. elegans aging studies | https://wormbase.org/ |
+| FlyBase | Drosophila aging studies | https://flybase.org/ |
+
+---
+
+# 🎗️ Cancer Research
+
+Resources for cancer genomics, proteomics, imaging, CRISPR screens, biomarkers, clinical data, and drug discovery.
+
+---
+
+## 🧬 Cancer Genomics
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| TCGA / GDC | Cancer genomic datasets | https://portal.gdc.cancer.gov/ |
+| ICGC | International Cancer Genome Consortium | https://dcc.icgc.org/ |
+| cBioPortal | Cancer exploration and visualization | https://www.cbioportal.org/ |
+| COSMIC | Cancer mutation database | https://cancer.sanger.ac.uk/cosmic |
+| AACR GENIE | Clinical cancer genomics | https://www.aacr.org/professionals/research/aacr-project-genie/ |
+
+---
+
+## 🧪 Cancer Proteomics
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| CPTAC | Cancer proteomics | https://proteomics.cancer.gov/programs/cptac |
+| PRIDE | Proteomics repository | https://www.ebi.ac.uk/pride/ |
+| ProteomeXchange | Proteomics datasets | https://www.proteomexchange.org/ |
+
+---
+
+## ✂️ CRISPR & Functional Genomics
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| DepMap | Cancer dependencies | https://depmap.org/portal/ |
+| GenomeCRISPR | CRISPR screens | https://genomecrispr.dkfz.de/ |
+| Project Score | Cancer gene essentiality | https://score.depmap.sanger.ac.uk/ |
+
+---
+
+## 🔬 Cancer Cell Lines
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| CCLE | Cancer Cell Line Encyclopedia | https://sites.broadinstitute.org/ccle/ |
+| DepMap | Multi-omics cell line profiles | https://depmap.org/portal/ |
+| Cell Model Passports | Cancer models | https://cellmodelpassports.sanger.ac.uk/ |
+
+---
+
+## 🖼️ Cancer Imaging
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| TCIA | Cancer imaging archive | https://www.cancerimagingarchive.net/ |
+| BioImage Archive | Biological imaging repository | https://www.ebi.ac.uk/bioimage-archive/ |
+| IDR | Image Data Resource | https://idr.openmicroscopy.org/ |
+
+---
+
+## 💊 Cancer Drug Discovery
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| DrugBank | Drug-target information | https://go.drugbank.com/ |
+| ChEMBL | Drug bioactivity | https://www.ebi.ac.uk/chembl/ |
+| BindingDB | Binding affinities | https://www.bindingdb.org/ |
+| PubChem | Chemical structures and assays | https://pubchem.ncbi.nlm.nih.gov/ |
+| ZINC | Virtual screening compounds | https://zinc.docking.org/ |
+
+---
+
+## 🏥 Clinical & Precision Oncology
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| ClinVar | Clinical variants | https://www.ncbi.nlm.nih.gov/clinvar/ |
+| OncoKB | Precision oncology knowledge base | https://www.oncokb.org/ |
+| CIViC | Cancer variant interpretations | https://civicdb.org/ |
+| MyCancerGenome | Precision medicine resource | https://www.mycancergenome.org/ |
 
 # ⭐ Contributing
 
@@ -327,5 +467,6 @@ If you discover:
 - AI-for-science tools
 - Computational biology APIs
 - Scientific competitions
+- or update any links /faulty links 
 
 Please submit a pull request.
