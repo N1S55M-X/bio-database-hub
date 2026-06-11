@@ -781,6 +781,62 @@ Resources describing clinical studies and metadata standards.
 | ClinicalTrials.gov | Clinical study registry | https://clinicaltrials.gov |
 
 ---
+# 🎯 Precision Medicine
+
+Resources connecting genomics, biomarkers, drug response, clinical interpretation, and personalized treatment decisions.
+
+---
+
+## Pharmacogenomics
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| PharmGKB | Drug-gene interactions and pharmacogenomics knowledgebase | https://www.pharmgkb.org |
+| PharmVar | Pharmacogene variant nomenclature | https://www.pharmvar.org |
+| CPIC | Clinical pharmacogenetic guidelines | https://cpicpgx.org |
+
+---
+
+## Clinical Variant Interpretation
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| ClinVar | Clinical significance of genetic variants | https://www.ncbi.nlm.nih.gov/clinvar |
+| ClinGen | Clinical genome resource | https://clinicalgenome.org |
+| LOVD | Leiden Open Variation Database | https://www.lovd.nl |
+
+---
+
+## Precision Oncology
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| OncoKB | Precision oncology knowledgebase | https://www.oncokb.org |
+| CIViC | Clinical interpretation of cancer variants | https://civicdb.org |
+| MyCancerGenome | Precision cancer medicine resource | https://www.mycancergenome.org |
+| AACR Project GENIE | International cancer genomic registry | https://www.aacr.org/professionals/research/aacr-project-genie/ |
+
+---
+
+## Genotype-Phenotype Associations
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| GWAS Catalog | Variant-trait associations | https://www.ebi.ac.uk/gwas |
+| dbGaP | Genotypes and phenotypes | https://www.ncbi.nlm.nih.gov/gap |
+| EGA | Controlled-access genomic studies | https://www.ebi.ac.uk/ega |
+
+---
+
+## Population Precision Medicine
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| UK Biobank | Population genomics and health records | https://www.ukbiobank.ac.uk |
+| All of Us | Precision medicine cohort | https://allofus.nih.gov |
+| FinnGen | Population-scale genomic medicine | https://www.finngen.fi |
+
+---
 
 # ⭐ Contributing
 
