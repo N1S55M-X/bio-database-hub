@@ -456,6 +456,204 @@ Resources for cancer genomics, proteomics, imaging, CRISPR screens, biomarkers, 
 | CIViC | Cancer variant interpretations | https://civicdb.org/ |
 | MyCancerGenome | Precision medicine resource | https://www.mycancergenome.org/ |
 
+# 🛡️ Immunology & Immunomics
+
+Resources for immune systems, immune repertoires, vaccines, epitopes, T-cell receptors, B-cell receptors, and immunotherapy.
+
+---
+
+## Immune Databases
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| IEDB | Immune epitopes and vaccine targets | https://www.iedb.org |
+| ImmPort | Immunology datasets and clinical studies | https://www.immport.org |
+| VDJdb | TCR sequence database | https://vdjdb.cdr3.net |
+| AIRR Data Commons | Adaptive immune receptor repertoire data | https://data.airr-community.org |
+
+---
+
+# 💊 Pharmacogenomics
+
+Resources connecting genetics to drug response, precision medicine, and personalized therapeutics.
+
+---
+
+## Pharmacogenomics Databases
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| PharmGKB | Drug-gene interactions and pharmacogenomics knowledgebase | https://www.pharmgkb.org |
+| CPIC | Clinical pharmacogenetic guidelines | https://cpicpgx.org |
+| PharmVar | Pharmacogene variation database | https://www.pharmvar.org |
+
+---
+
+# ☠️ Toxicogenomics
+
+Resources for studying chemical toxicity, environmental exposures, and molecular mechanisms of disease.
+
+---
+
+## Toxicology Databases
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| CTD | Comparative Toxicogenomics Database | https://ctdbase.org |
+| DrugMatrix | Toxicogenomic drug-response database | https://ntp.niehs.nih.gov/drugmatrix |
+| Open TG-GATEs | Large-scale toxicogenomics database | https://toxico.nibiohn.go.jp |
+
+---
+
+# 🦠 Virology & Pathogen Databases
+
+Resources for viruses, bacteria, host-pathogen interactions, infectious diseases, and outbreak research.
+
+---
+
+## Pathogen Resources
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| NCBI Virus | Viral genomes and metadata | https://www.ncbi.nlm.nih.gov/labs/virus |
+| ViPR | Viral pathogen resource | https://www.viprbrc.org |
+| BV-BRC | Bacterial and viral bioinformatics resource center | https://www.bv-brc.org |
+| PHI-base | Pathogen-host interaction database | https://www.phi-base.org |
+
+---
+
+# 🔗 Interaction Networks
+
+Resources for protein-protein interactions, genetic interactions, and biological network analysis.
+
+---
+
+## Network Databases
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| BioGRID | Protein, genetic, and chemical interactions | https://thebiogrid.org |
+| IntAct | Molecular interaction database | https://www.ebi.ac.uk/intact |
+| MINT | Molecular interaction repository | https://mint.bio.uniroma2.it |
+| STRING | Functional protein interaction networks | https://string-db.org |
+
+---
+
+# 🧬 RNA Databases
+
+Resources for non-coding RNA, miRNA, RNA families, RNA structure, and transcript regulation.
+
+---
+
+## RNA Resources
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| miRBase | MicroRNA sequences and annotations | https://www.mirbase.org |
+| RNAcentral | Unified non-coding RNA database | https://rnacentral.org |
+| Rfam | RNA families and motifs | https://rfam.org |
+
+---
+
+# 🧫 Metabolic & Enzyme Databases
+
+Resources for metabolism, enzymes, biochemical pathways, and systems biology.
+
+---
+
+## Metabolism Resources
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| MetaCyc | Curated metabolic pathways | https://metacyc.org |
+| BioCyc | Biological pathway collection | https://biocyc.org |
+| BRENDA | Enzyme information system | https://www.brenda-enzymes.org |
+| KEGG | Metabolism and pathways | https://www.genome.jp/kegg |
+
+---
+
+# 🧬 Gene Ontology & Annotation
+
+Resources for biological functions, molecular processes, and gene annotations.
+
+---
+
+## Ontology Databases
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| Gene Ontology | Biological process annotations | https://geneontology.org |
+| AmiGO | Gene Ontology search interface | https://amigo.geneontology.org |
+
+---
+
+# 🦴 Model Organism Databases
+
+Resources for widely used experimental organisms.
+
+---
+
+## Organism Databases
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| FlyBase | Drosophila genetics and genomics | https://flybase.org |
+| WormBase | C. elegans biology and genomics | https://wormbase.org |
+| TAIR | Arabidopsis information resource | https://www.arabidopsis.org |
+| SGD | Saccharomyces Genome Database | https://yeastgenome.org |
+| PomBase | Schizosaccharomyces pombe database | https://www.pombase.org |
+
+---
+
+# 🤖 AI for Biology
+
+Resources used for AI-driven protein design, structure prediction, and biological foundation models.
+
+---
+
+## AI Biology Resources
+
+| Resource | Description | Link |
+|-----------|-------------|------|
+| AlphaFold DB | Predicted protein structures | https://alphafold.ebi.ac.uk |
+| ESM Atlas | Protein language model predictions | https://esmatlas.com |
+| OpenFold | Open-source AlphaFold implementation | https://github.com/aqlaboratory/openfold |
+| OpenProteinSet | Protein datasets for AI models | https://github.com/google-deepmind/open_protein_set |
+
+---
+
+# 🏭 Laboratory Automation & Robotics
+
+Resources for automated experimentation, cloud laboratories, and self-driving labs.
+
+---
+
+## Automation Platforms
+
+| Resource | Description | Link |
+|-----------|-------------|------|
+| Opentrons | Open-source laboratory automation | https://opentrons.com |
+| Strateos | Cloud laboratory platform | https://strateos.com |
+| Emerald Cloud Lab | Remote automated laboratory | https://www.emeraldcloudlab.com |
+
+---
+
+# 🌍 Population & Cohort Databases
+
+Resources for population genetics, epidemiology, precision medicine, and large-scale health studies.
+
+---
+
+## Cohort Databases
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| UK Biobank | Population-scale biomedical data | https://www.ukbiobank.ac.uk |
+| All of Us | Precision medicine cohort | https://allofus.nih.gov |
+| FinnGen | Finnish genomics and health data | https://www.finngen.fi |
+
+---
+
 # ⭐ Contributing
 
 Pull requests are welcome.
