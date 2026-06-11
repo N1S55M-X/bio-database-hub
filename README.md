@@ -653,6 +653,134 @@ Resources for population genetics, epidemiology, precision medicine, and large-s
 | FinnGen | Finnish genomics and health data | https://www.finngen.fi |
 
 ---
+# 🧬 Additional Biological Databases
+
+These databases cover specialized but important areas including genetic variation, raw sequencing archives, mass spectrometry, natural products, physiological models, and genotype-phenotype associations.
+
+---
+
+# 🧬 Genetic Variation & Genome Archives
+
+Resources for genetic variants, controlled-access genomics data, and genome-phenome associations.
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| EGA | European Genome-phenome Archive | https://www.ebi.ac.uk/ega |
+| dbGaP | Database of Genotypes and Phenotypes | https://www.ncbi.nlm.nih.gov/gap |
+| EVA | European Variation Archive | https://www.ebi.ac.uk/eva |
+| GWAS Catalog | Genotype-phenotype associations | https://www.ebi.ac.uk/gwas |
+| dbSNP | Genetic variation database | https://www.ncbi.nlm.nih.gov/snp |
+
+---
+
+# 🧬 Reference Sequence Databases
+
+Curated reference sequences for genomes, transcripts, and proteins.
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| RefSeq | Reference DNA, RNA, and protein sequences | https://www.ncbi.nlm.nih.gov/refseq |
+| GenBank | Public nucleotide sequence repository | https://www.ncbi.nlm.nih.gov/genbank |
+| ENA | European Nucleotide Archive | https://www.ebi.ac.uk/ena |
+| DDBJ | DNA Data Bank of Japan | https://www.ddbj.nig.ac.jp |
+
+---
+
+# 🧪 Raw Sequencing Archives
+
+Primary repositories for raw sequencing and omics data.
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| SRA | Sequence Read Archive | https://www.ncbi.nlm.nih.gov/sra |
+| NODE | National Omics Data Encyclopedia | https://www.node.ac.cn |
+| GEO | Gene expression archive | https://www.ncbi.nlm.nih.gov/geo |
+| ArrayExpress | Functional genomics archive | https://www.ebi.ac.uk/biostudies/arrayexpress |
+
+---
+
+# 🔬 Mass Spectrometry Repositories
+
+Repositories for proteomics and metabolomics mass spectrometry data.
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| MassIVE | Mass spectrometry repository | https://massive.ucsd.edu |
+| jPOST | Proteomics data repository | https://repository.jpostdb.org |
+| iProX | Integrated proteome resource | https://www.iprox.org |
+| PRIDE | Proteomics repository | https://www.ebi.ac.uk/pride |
+| ProteomeXchange | Global proteomics consortium | https://www.proteomexchange.org |
+
+---
+
+# 🧬 Protein Abundance Databases
+
+Resources for quantitative protein abundance measurements.
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| PaxDB | Protein abundance across organisms | https://pax-db.org |
+| PeptideAtlas | Peptide and protein observations | https://www.peptideatlas.org |
+
+---
+
+# 🌿 Natural Products & Molecular Networking
+
+Resources for metabolite discovery and molecular relationships.
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| GNPS | Global Natural Products Social Molecular Networking | https://gnps.ucsd.edu |
+| HMDB | Human Metabolome Database | https://hmdb.ca |
+| METLIN | Metabolite database | https://metlin.scripps.edu |
+
+---
+
+# 🧪 Metabolomics Repositories
+
+Resources for metabolomics experiments and metabolite profiles.
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| Metabolomics Workbench | US national metabolomics repository | https://www.metabolomicsworkbench.org |
+| MetaboLights | Metabolomics archive | https://www.ebi.ac.uk/metabolights |
+| HMDB | Human metabolome resource | https://hmdb.ca |
+
+---
+
+# 🧬 Cellular Perturbation Databases
+
+Resources describing cellular responses to drugs, compounds, and perturbations.
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| LINCS Data Portal | Cellular perturbation signatures | https://lincsportal.ccs.miami.edu |
+| Connectivity Map (CMap) | Gene expression perturbations | https://clue.io |
+
+---
+
+# 🫀 Physiological & Systems Biology Models
+
+Repositories containing computational and mathematical biological models.
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| BioModels | Mathematical models of biological systems | https://www.ebi.ac.uk/biomodels |
+| Physiome Model Repository | Physiological and CellML models | https://www.physiome.org |
+| BioSimulations | Executable biological simulations | https://biosimulations.org |
+
+---
+
+# 📋 Clinical Metadata Resources
+
+Resources describing clinical studies and metadata standards.
+
+| Database | Description | Link |
+|-----------|-------------|------|
+| MDR | Clinical Research Metadata Repository | https://mdr.cbioprint.org |
+| ClinicalTrials.gov | Clinical study registry | https://clinicaltrials.gov |
+
+---
 
 # ⭐ Contributing
 
