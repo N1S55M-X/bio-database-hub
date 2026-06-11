@@ -1,6 +1,6 @@
 # 🧬 Bioinformatics Universe
 
-A curated collection of datasets, databases, APIs, challenges, and validation platforms for:
+A curated collection of datasets, databases, APIs, challenges, and platforms for:
 
 - Bioinformatics
 - Computational Biology
