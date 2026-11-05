@@ -799,11 +799,12 @@ Resources connecting genomics, biomarkers, drug response, clinical interpretatio
 
 ## Clinical Variant Interpretation
 
-| Database | Description | Link |
+| Resource | Description | Link |
 |-----------|-------------|------|
 | ClinVar | Clinical significance of genetic variants | https://www.ncbi.nlm.nih.gov/clinvar |
 | ClinGen | Clinical genome resource | https://clinicalgenome.org |
 | LOVD | Leiden Open Variation Database | https://www.lovd.nl |
+| Folklore | Free browser tool for automated ACMG/AMP classification of one supported human nuclear GRCh38 germline SNV or simple indel under 50 bp. Accepts HGVS, SPDI, rsID or genomic coordinates. When available, shows the classification, reported criteria, annotations and linked evidence, with ClinVar submissions listed separately. Results require qualified review before clinical use. | [Tool](https://folklore.helena.bio/acmg-variant-classification) · [BRCA1 example](https://folklore.helena.bio/examples/acmg-variant-classification) |
 
 ---
 
